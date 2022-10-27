@@ -1,0 +1,3 @@
+DelSec is a Program which will help you to delet files secure and fast.
+
+Its free and OpenSource!
