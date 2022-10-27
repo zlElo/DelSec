@@ -371,7 +371,7 @@ try:
     os.remove(file)
 except OSError:  # if the deletion failed, you will get a message
     root = Tk()
-    root.geometry('300x100')
+    root.geometry('300x130')
     root.title('DelSec-Error')
 
     Label(text='Unfortunately, deleting the file did not work.').place(x=10, y=3)
