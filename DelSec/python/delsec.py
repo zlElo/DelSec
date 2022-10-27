@@ -350,6 +350,7 @@ Public License instead of this License.
 import os
 from tkinter import filedialog
 from tkinter import *
+from time import sleep
 
 
 # Get File
@@ -368,6 +369,7 @@ def encrypt(file):
 # Try to delet the file
 try:
     encrypt(file)
+    sleep(1)
     os.remove(file)
 except OSError:  # if the deletion failed, you will get a message
     root = Tk()
