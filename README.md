@@ -10,7 +10,7 @@
  - programming Languange: Python
  - Standart Libarys: os, sys, time, tkinter (filedialog)
  - Extra Pip Libarys: customtkinter
- - Lines of Code: 75
+ - Lines of Code: 88
  - Operating Systems: Windows
  
  -----------------------------------------------------------------------------
