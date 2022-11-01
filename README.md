@@ -3,8 +3,7 @@
 ![Encryption](https://img.shields.io/badge/Encryption-one--time--pad-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Version](https://img.shields.io/badge/Version-1.03-informational)
-
-
+![License](https://img.shields.io/badge/License-GPLv2-green)
 
 
  DelSec is a program that helps you securely delete files, written in Python!
