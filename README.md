@@ -1,6 +1,8 @@
 # DelSec
 ![GitHub All Releases](https://img.shields.io/github/downloads/zlElo/DelSec/total?label=Downloads)
 ![Encryption](https://img.shields.io/badge/Encryption-one--time--pad-blueviolet)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+
 
 
  DelSec is a program that helps you securely delete files, written in Python!
