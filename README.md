@@ -2,6 +2,8 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/zlElo/DelSec/total?label=Downloads)
 ![Encryption](https://img.shields.io/badge/Encryption-one--time--pad-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Version](https://img.shields.io/badge/Version-1.03-informational)
+
 
 
 
