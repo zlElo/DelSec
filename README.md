@@ -20,3 +20,7 @@
  - You can just drag files onto DelSec's desktop icon and it will automatically recognize that this is your chosen file to delete
  - You can simply drag a folder onto DelSec's desktop icon and it will delete the entire contents of the folder
  - You can double click on the DelSec icon and then select your file in the selection dialog.
+
+------------------------------------------------------------------------------
+
+![GitHub All Releases](https://img.shields.io/github/downloads/zlElo/DelSec/total?label=Downloads)
