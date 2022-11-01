@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-GPLv2-green)
 ![Size](https://img.shields.io/github/languages/code-size/zlElo/DelSec)
 ![Files](https://img.shields.io/github/directory-file-count/zlElo/DelSec)
+![Activ](https://img.shields.io/github/commit-activity/y/zlElo/DelSec)
 
 
 
