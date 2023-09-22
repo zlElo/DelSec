@@ -19,9 +19,7 @@
  
  - License: GPLv2
  - programming Languange: Python
- - Standart Libarys: os, sys, time, tkinter (filedialog)
- - Extra Pip Libarys: customtkinter
- - Lines of Code: 88
+ - GUI Libary: customtkinter, tkinter
  - Operating Systems: Windows
  
  -----------------------------------------------------------------------------
@@ -30,4 +28,4 @@
  
  - You can just drag files onto DelSec's desktop icon and it will automatically recognize that this is your chosen file to delete
  - You can simply drag a folder onto DelSec's desktop icon and it will delete the entire contents of the folder
- - You can double click on the DelSec icon and then select your file in the selection dialog.
+ - You can double click on the DelSec icon and then select what you want to to in the GUI
