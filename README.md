@@ -2,7 +2,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/zlElo/DelSec/total?label=Downloads)
 ![Encryption](https://img.shields.io/badge/Encryption-one--time--pad-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-![Version](https://img.shields.io/badge/Version-1.03-informational)
+![Version](https://img.shields.io/badge/Version-1.04-informational)
 ![License](https://img.shields.io/badge/License-GPLv2-green)
 ![Size](https://img.shields.io/github/languages/code-size/zlElo/DelSec)
 ![Files](https://img.shields.io/github/directory-file-count/zlElo/DelSec)
