@@ -27,6 +27,7 @@ def deletion(file):
         root = customtkinter.CTk()
         root.geometry('300x130')
         root.title('DelSec-Error')
+        root.iconbitmap('src/icon.ico')
 
         customtkinter.CTkLabel(root, text='Unfortunately, deleting the file did not work.').place(x=10, y=3)
         customtkinter.CTkLabel(root, text='These could be the problems:').place(x=10, y=32)
@@ -65,6 +66,7 @@ def del_directory(file, root):
     win = customtkinter.CTk()
     win.geometry('314x80')
     win.title('Progress...')
+    root.iconbitmap('src/icon.ico')
 
     bar = customtkinter.CTkProgressBar(win)
     bar.pack(pady=15)
@@ -84,6 +86,7 @@ def del_dialog(file):
     root = customtkinter.CTk()
     root.geometry('314x80')
     root.title('Attention!')
+    root.iconbitmap('src/icon.ico')
 
     customtkinter.CTkLabel(root, text='Are you sure you want to permanently delete the file?').place(x=7, y=10)
     customtkinter.CTkButton(root, text='Yes', command= lambda: [deletion(file), quit(root)], width=50, fg_color='red', hover_color='darksalmon').place(x=95, y=40)
@@ -101,6 +104,7 @@ def del_dialog_directory(file):
     root = customtkinter.CTk()
     root.geometry('314x80')
     root.title('Attention!')
+    root.iconbitmap('src/icon.ico')
 
     customtkinter.CTkLabel(root, text='Are you sure you want to permanently delete the files?').place(x=7, y=10)
     customtkinter.CTkButton(root, text='Yes', command= btn_command, width=50, fg_color='red', hover_color='darksalmon').place(x=95, y=40)

@@ -1,6 +1,6 @@
 import customtkinter
 import sys
-from deleter import del_dialog_directory, del_dialog
+from src.deleter import del_dialog_directory, del_dialog
 import os
 from tkinter import filedialog
 
@@ -9,6 +9,7 @@ def GUI():
     window = customtkinter.CTk()
     window.geometry('300x150')
     window.title('DelSec')
+    window.iconbitmap('src/icon.ico')
 
     customtkinter.CTkLabel(window, text='DelSec - delete secure').pack(pady=10)
 
