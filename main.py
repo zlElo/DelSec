@@ -29,7 +29,6 @@ def GUI():
 
 # Start the main Program
 
-
 # Get the file to delet
 try: # Try to get a dropped file
     sys.argv[1]
