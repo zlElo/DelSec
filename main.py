@@ -24,12 +24,6 @@ def GUI():
 
     window.mainloop()
 
-
-<<<<<<< HEAD
-=======
-# Start the main Program
-
->>>>>>> ed0040bebc155551078346a8404a7fa2d98c4c16
 # Get the file to delet
 try: # Try to get a dropped file
     sys.argv[1]
