@@ -7,7 +7,6 @@ import shutil
 def quit(root):
     root.destroy()
 
-
 # Encrypt the file
 def encrypt(file):
     have_to_encrypt = open(file, "rb").read()
@@ -15,7 +14,6 @@ def encrypt(file):
     encryptet = bytes(a ^ b for (a, b) in zip(have_to_encrypt, key))
     with open(file, "wb") as encryptet_out:
         encryptet_out.write(encryptet)
-
 
 def deletion(file):
   # Try to delet the file
@@ -36,7 +34,6 @@ def deletion(file):
         customtkinter.CTkLabel(root, text='- An unknown error on the part of the program').place(x=10, y=95)
 
         root.mainloop()
-
 
 def del_directory(file, root):
     def start_deletion():
@@ -79,9 +76,6 @@ def del_directory(file, root):
 
     win.mainloop()
 
-    
-        
-
 def del_dialog(file):
     root = customtkinter.CTk()
     root.geometry('314x80')
@@ -94,12 +88,10 @@ def del_dialog(file):
 
     root.mainloop()
 
-
 def del_dialog_directory(file):
 
     def btn_command():
         del_directory(file, root)
-        
 
     root = customtkinter.CTk()
     root.geometry('314x80')

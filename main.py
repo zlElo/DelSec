@@ -13,10 +13,8 @@ def GUI():
 
     customtkinter.CTkLabel(window, text='DelSec - delete secure').pack(pady=10)
 
-
     frame = customtkinter.CTkFrame(window)
     frame.pack()
-
 
     delete_file_btn = customtkinter.CTkButton(frame, text='Delete file', command=lambda: del_dialog(filedialog.askopenfilename()))
     delete_file_btn.pack(padx=50, pady=5)
@@ -25,9 +23,6 @@ def GUI():
     delete_folder_btn.pack(padx=50, pady=5)
 
     window.mainloop()
-
-
-# Start the main Program
 
 
 # Get the file to delet
