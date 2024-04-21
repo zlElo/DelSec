@@ -10,21 +10,11 @@
 
 
 
- DelSec is a program that helps you securely delete files, written in Python!
+DelSec is a program that helps you securely delete files, written in Python!
  
 If you want to delete your files secure and fast, then is DelSec the best program for you. It will help you, to delete your files completely. The program encrypt your file before the deletion, so antoher can't read the file. Its like a data shredder.
  
- ------------------------------------------------------------------------
- About the program:
- 
- - License: GPLv2
- - programming Languange: Python
- - GUI Libary: customtkinter, tkinter
- - Operating Systems: Windows
- 
- -----------------------------------------------------------------------------
- 
- How to use:
+## How to use:
  
  - You can just drag files onto DelSec's desktop icon and it will automatically recognize that this is your chosen file to delete
  - You can simply drag a folder onto DelSec's desktop icon and it will encrypt and delete the entire content inside and after that operation your folder too
